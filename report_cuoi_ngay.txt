@@ -1,0 +1,7 @@
+=== BAO CAO GIAO DICH ===
+TK: 0071001234567 | So tien: -100000 | Thoi gian: 19/06/2026 15:29:26 | Loai: CK: 9876543210123(TCB)
+TK: 9876543210123 | So tien: 100000 | Thoi gian: 19/06/2026 15:29:26 | Loai: Nhan: 0071001234567(HPB)
+TK: 0071001234567 | So tien: -150000 | Thoi gian: 19/06/2026 15:38:06 | Loai: Thanh toan Nuoc
+TK: 0071001234567 | So tien: -100000 | Thoi gian: 19/06/2026 15:43:59 | Loai: CK: 9876543210123(TCB)
+TK: 9876543210123 | So tien: 100000 | Thoi gian: 19/06/2026 15:43:59 | Loai: Nhan: 0071001234567(HPB)
+TK: 0071001234567 | So tien: 50000 | Thoi gian: 22/06/2026 20:48:13 | Loai: Gui tien mat
